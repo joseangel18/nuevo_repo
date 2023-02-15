@@ -2,5 +2,12 @@ body{
 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: blueviolet;
+    color: red;
+    background-color: gray;
+}
+
+div{
+
+    text-align: left;
+    background-color: aquamarine;
 }
